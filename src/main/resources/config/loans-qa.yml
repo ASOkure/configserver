@@ -1,3 +1,6 @@
+build:
+  version: "2"
+
 loans:
   message: "Welcome to Bank loans related QA APIs "
   contactDetails:
